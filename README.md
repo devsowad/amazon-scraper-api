@@ -1,4 +1,4 @@
-## An api that scrap data from amazon.com using scraperAPI
+## An API that scrap data from amazon.com using scraperAPI
 
 ### Run this project
 
